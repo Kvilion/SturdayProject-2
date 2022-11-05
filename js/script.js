@@ -21,3 +21,5 @@ personalMovieDB.movies[lastFilmTwo] = filmScoreTwo;
 
 console.log(personalMovieDB);
 console.log(personalMovieDB);
+console.log(personalMovieDB);
+console.log(personalMovieDB);
